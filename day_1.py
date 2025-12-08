@@ -1,3 +1,6 @@
 #string cancat
 print("hello"+" "+"world")
-print("hello"+ input("what is your name?"))
+name= input("what is your name?")
+print("hello "+name)
+length=len(name)
+print(length)
