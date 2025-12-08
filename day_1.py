@@ -1,6 +1,5 @@
-#string cancat
-print("hello"+" "+"world")
-name= input("what is your name?")
-print("hello "+name)
-length=len(name)
-print(length)
+name=input("What is your name: ")
+print("welcome to band name generator "+name+".")
+place=input("where do you grow up in city/town: ")
+pet_name=input("What's your pet's name?")
+print("your band name could be "+place+" "+pet_name)
