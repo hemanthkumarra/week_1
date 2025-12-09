@@ -1,8 +1,8 @@
 # # name=input("What's your name?\n")
 # # length=len(name)
-# # print("lenght of your name: "+ str(length))
+# # print("length of your name: "+ str(length))
 # #
-# # print(f"lenght od the name : {length}")
+# # print(f"length od the name : {length}")
 #
 # print(type(6/2))
 # print(type(6//2))
