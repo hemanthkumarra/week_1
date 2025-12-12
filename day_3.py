@@ -1,6 +1,6 @@
 # print("Welcome to roller coaster ride.")
-# hight=int(input("what is your hight?"))
-# if hight>=120:
+# height=int(input("what is your height?"))
+# if height>=120:
 #     bill=0
 #     age=int(input("How old are you?"))
 #     if age<=12:
